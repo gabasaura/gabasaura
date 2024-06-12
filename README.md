@@ -1,6 +1,7 @@
-## HEY 👋 I'm Gabriela Garín aka Gabasaura                                    
-##### 🤓 Full Stack Developer 💅 Graphic Designer and Illustrator
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+## HEY (￣▽￣)ノ	I'm Gabriela Garín aka 「 ✦ Gabasaura ✦ 」                                    
+##### 🤓 Full Stack Developer 💅 Graphic Designer and Illustrator based in Santiago, Chile.
+
+-⁺- ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ ✧ ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ -⁺-
 
 - 💻 I studied Full Stack Web Development at 4Geeks Academy                                                        
 - 🔭 I'm currently seeking for a job as a junior developer.
