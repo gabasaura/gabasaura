@@ -1,12 +1,12 @@
 ## HEY 👋 I'm Gabriela Garín aka Gabasaura                                    
-##### 🤓 Frontend / Full Stack Developer 💅 Graphic Designer and Illustrator
+##### 🤓 Full Stack Developer 💅 Graphic Designer and Illustrator
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 - 💻 I studied Full Stack Web Development at 4Geeks Academy                                                        
 - 🔭 I'm currently looking for a job as a junior developer.
 - 🌱 I’m currently learning ✨UI components.
 - 💬 Ask me about design / 🎨drawing.
-- ⚡ Fun fact: Not nice when hungry 🤷‍♀️
+- ⚡ Fun fact: hardcore 🧉mate drinker 🤷‍♀️
                                  
 
                                                       
