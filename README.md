@@ -3,8 +3,8 @@
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 - 💻 I studied Full Stack Web Development at 4Geeks Academy                                                        
-- 🔭 I'm currently looking for a job as a junior developer.
-- 🌱 I’m currently learning ✨UI components.
+- 🔭 I'm currently seeking for a job as a junior developer.
+- 🌱 And Learning to create ✨UI components.
 - 💬 Ask me about design / 🎨drawing.
 - ⚡ Fun fact: hardcore 🧉mate drinker 🤷‍♀️
 
