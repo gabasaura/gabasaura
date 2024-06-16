@@ -5,7 +5,7 @@
 
 - 💻 I studied Full Stack Web Development at 4Geeks Academy                                                        
 - 🔭 I'm currently seeking for a job as a junior developer.
-- 🌱 Still Learning to create better projects in ✨Js / React / Python.
+- 🌱 Always learning to create better projects in ✨Js / React / Python.
 - 💬 Ask me about design / 🎨drawing.
 - ⚡ Fun fact: hardcore 🧉mate drinker 🤷‍♀️
 
