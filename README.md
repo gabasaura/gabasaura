@@ -1,4 +1,4 @@
-## HEY (￣▽￣)ノ	I'm Gabriela Garín aka 「 ✦ Gabasaura ✦ 」                                    
+## HEY (￣▽￣)ノ	I'm Gabriela Garín aka 「 ✦ GABA ✦ 」                                    
 ##### 🤓 Full Stack Developer 💅 Graphic Designer and Illustrator based in Santiago, Chile.
 
 -⁺- ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ ✧ ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ -⁺-
