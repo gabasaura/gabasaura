@@ -3,7 +3,7 @@
 
 -⁺- ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ ✧ ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ -⁺-
 
-- 💻 I studied Full Stack Web Development at 4Geeks Academy                                                        
+- 💻 I studied Full Stack Web Development at 4Geeks Academy.                                   
 - 🔭 I'm currently seeking for a job as a junior developer.
 - 🌱 Always learning to create/collaborate in interesting projects.
 - 💬 Ask me about design / 🎨drawing.
