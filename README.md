@@ -9,7 +9,9 @@
 - 💬 Ask me about design / 🎨drawing.
 - ⚡ Fun fact: hardcore 🧉mate drinker 🤷‍♀️
 
+
 ## Codes & Tools
+<p><img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabasaura&show_icons=true&locale=en&layout=compact" alt="gabasaura" /></p>
 
 #### Languages
 <a href="https://github.com/gabasaura">
@@ -39,7 +41,8 @@
   <img src="https://img.shields.io/badge/Flask-100000?style=for-the-badge&logo=flask&logoColor=white"> 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">  
 </a>                                              
-                                                   
+
+                                                
 <!--
 **gabasaura/gabasaura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
