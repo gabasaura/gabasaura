@@ -11,7 +11,7 @@
 
 
 ## Codes & Tools
-<p><img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabasaura&show_icons=true&theme=dark&locale=en&layout=compact" alt="gabasaura" /></p>
+<p><img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabasaura&show_icons=true&theme=merko&locale=en&layout=compact" alt="gabasaura" /></p>
 
 #### Languages
 <a href="https://github.com/gabasaura">
