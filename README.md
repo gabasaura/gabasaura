@@ -7,7 +7,7 @@
 - 🔭 I'm currently seeking for a job as a junior developer.
 - 🌱 Always learning to create/collaborate in interesting projects.
 - 💬 Ask me about UI/UX / 🎨drawing.
-- ⚡ Fun fact: hardcore 🧉mate drinker 🤷‍♀️
+- ⚡ Fun fact: hardcore 🧉mate drinker🤷‍♀️
 
 
 ## Codes & Tools
