@@ -3,12 +3,14 @@
 
 -⁺- ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ ✧ ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ -⁺-
 
-- 💻 I studied Full Stack Web Development at 4Geeks Academy.                                   
-- 🔭 I'm currently seeking for a job as a junior developer.
+- 💻 I studied Full Stack Web Development at 4Geeks Academy.
+- 🧠 Currently learning Typescript.                                  
 - 🌱 Always learning to create/collaborate in interesting projects.
 - 💬 Ask me about UI/UX / 🎨drawing.
 - ⚡ Fun fact: hardcore 🧉mate drinker🤷‍♀️
 
+## Check my portfolio [Here](https://gabaportafolio.vercel.app/)
+##### My latest projects, including the most interesting ones, my personal favorites, and other things I enjoy.
 
 ## Codes & Tools
 <p><img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabasaura&show_icons=true&theme=merko&locale=en&layout=compact" alt="gabasaura" /></p>
