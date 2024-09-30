@@ -3,9 +3,8 @@
 
 -⁺- ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ ✧ ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ -⁺-
 
-- 💻 I studied Full Stack Web Development at 4Geeks Academy.
 - 🧠 Currently learning Typescript.                                  
-- 🌱 Always learning to create/collaborate in interesting projects.
+- 🌱 Available to create/collaborate in interesting projects.
 - 💬 Ask me about UI/UX / 🎨drawing.
 - ⚡ Fun fact: hardcore 🧉mate drinker🤷‍♀️
 
