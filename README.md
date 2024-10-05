@@ -9,7 +9,7 @@
 - ⚡ Fun fact: hardcore 🧉mate drinker🤷‍♀️
 
 ## Check out my portfolio 「 ✦ [Here](https://gabaportafolio.vercel.app/) ✦ 」
-#### 🥸 Here are my latest projects, including the most interesting ones, my personal favorites, and a few other things I love doing.
+#### 🥸 A lil' more about me, the latest projects, including the most interesting ones, my personal favorites, and a few other things I love doing.
 
 ## Codes & Tools
 <p><img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabasaura&show_icons=true&theme=merko&locale=en&layout=compact" alt="gabasaura" /></p>
