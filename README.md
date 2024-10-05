@@ -8,7 +8,7 @@
 - 💬 Ask me about UI/UX / 🎨drawing.
 - ⚡ Fun fact: hardcore 🧉mate drinker🤷‍♀️
 
-## Check out my portfolio [Here](https://gabaportafolio.vercel.app/)
+## Check out my portfolio 「 ✦ [Here](https://gabaportafolio.vercel.app/) ✦ 」
 #### 🥸 Here are my latest projects, including the most interesting ones, my personal favorites, and a few other things I love doing.
 
 ## Codes & Tools
