@@ -3,7 +3,7 @@
 
 -⁺- ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ ✧ ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ -⁺-
 
-- 🧠 Currently learning Typescript.                                  
+- 🧠 Currently learning Typescript / PHP                                  
 - 🌱 Available to create/collaborate in interesting projects.
 - 💬 Ask me about UI/UX / 🎨drawing.
 - ⚡ Fun fact: hardcore 🧉mate drinker🤷‍♀️
