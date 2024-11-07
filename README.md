@@ -4,11 +4,11 @@
 -⁺- ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ ✧ ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ -⁺-
 
 - 🧠 Currently learning Typescript / PHP                                  
-- 🌱 Available to create/collaborate in interesting projects.
-- 💬 Ask me about UI/UX / 🎨drawing.
+- 🌱 Always Available for interesting projects.
+- 💬 Ask me about 💅UI/UX / 🎨drawing.
 - ⚡ Fun fact: hardcore 🧉mate drinker🤷‍♀️
 
-## Check out my portfolio 「 ✦ [Here](https://gabaportafolio.vercel.app/) ✦ 」
+## Check out my portfolio ✌️✨ 「 ✦ [Here](https://gabaportafolio.vercel.app/) ✦ 」
 ##### 🥸 A lil' more about me, the latest projects, including the most interesting ones, my personal favorites, and a few other things I love doing.
 
 ## Codes & Tools
