@@ -3,7 +3,7 @@
 
 -⁺- ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ ✧ ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ -⁺-
 
-- 🧠 Currently learning Typescript / PHP                                  
+- 🧠 Currently learning Vue / PHP Laravel                                 
 - 🌱 Always Available for interesting projects.
 - 💬 Ask me about 💅UI/UX / 🎨drawing.
 - ⚡ Fun fact: hardcore 🧉mate drinker🤷‍♀️
